@@ -26,4 +26,4 @@ Selected case studies with metrics and architecture diagrams are available in my
 ## Get in touch
 
 - **Upwork:** https://www.upwork.com/freelancers/~011fded082bdbc2bc1
-- **Email:**  roman.samsonov.dev@gmail.com
+- **Email:**  samsonov.roman.dev@gmail.com
